@@ -1,0 +1,19 @@
+# Test Shape for a 4D Object
+# .obj file but this file has .obj3d extension
+
+# 3D TEST SHAPE: TETRAHEDRON
+#       Vertices    : 4
+#       Faces       : 4
+#       Edges       : 6
+
+# VERTICES
+#  x   y   z
+v 1.0 1.0 1.0
+v 2.0 1.0 1.0
+v 1.0 2.0 1.0
+v 1.0 1.0 2.0
+ 
+f 1 3 2
+f 1 4 3
+f 1 2 4
+f 2 3 4
